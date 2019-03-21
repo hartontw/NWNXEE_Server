@@ -1,4 +1,4 @@
-# NWNX:EE Dedicated Server for Node.js
+# NWNX:EE Linux dedicated server middleware in Node.js
 
 ### Install
 
